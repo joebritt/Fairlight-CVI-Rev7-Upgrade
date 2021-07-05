@@ -8,6 +8,8 @@ See overview and installation guide [here](https://docs.google.com/document/d/1m
 There are 4 different PCBs. Two of these are just DIP-to-PLCC EPROM adapter boards.</br>
 I made these because I had a bunch of PLCC 27C010 EPROMS I wanted to use!
 
+### EPROM Images
+
 There are 4 EPROM images for inside the CVI unit. You'll replace the Rev5 EPROMs with parts programmed with these images:
 
 CVI1R70.BIN and CVI2R70.BIN are images of Rev7 firmware EPROMs CVI1 and CVI2. These each go in a 27C128 16KB EPROM.
@@ -35,7 +37,9 @@ The main attraction. Replacement for the original CVI06 expansion board. Smaller
 ### Enclosure
 
 CVI06A_box.stl and CVI06A_lid.stl can be 3D printed to make a small enclosure to protect the CVI06A PCB.</br>
-The box is held together by friction. Note the capture features and line them up when closing.
+The box is held together by friction. Note the capture features and line them up when closing.</br>
+</br>
+You can see the OnShape files used to create the enclosure box [here](https://cad.onshape.com/documents/24956ac0c366857a8c3e2111/w/adee8d27d6b88507ca310e0c/e/6c70102fddee723f7350afbb) and top [here](https://cad.onshape.com/documents/769b7af279cff9270446b3d7/w/f598dc3f7b092dcb1121a7f3/e/3ff1c2d9f7cff27cb58aa0f2).
 
 
 
