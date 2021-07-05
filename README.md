@@ -5,8 +5,14 @@ See overview and installation guide [here](https://docs.google.com/document/d/1m
 
 ### All PCB designs were done in Eagle.
 
-There are 4 different PCBs. Two of these are just DIP-to-PLCC EPROM adapter boards.</br>
-I made these because I had a bunch of PLCC 27C010 EPROMS I wanted to use!
+There are 4 different PCBs:</br>
+
+One is the actual CVI06A, which mounts to the rear of the CVI. It is substantially smaller than the original CVI06.</br>
+
+One is a small board which replaces the SRAM inside the CVI. This new board uses an FRAM to provide nonvolatile storage without a battery</br>
+
+Two of these are just DIP-to-PLCC EPROM adapter boards.</br>
+I made these because I had a bunch of PLCC 27C010 EPROMS I wanted to use! You can also just use 2716 and 27C128 EPROMs instead of these boards.
 
 ### EPROM Images
 
